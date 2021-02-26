@@ -1,0 +1,5 @@
+# ninja log v5
+1	439	6360026904121911	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	f4fce0febb8defc
+398	540	6360026904997495	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	5e28ad3fdd7238c3
+443	632	6360026905900976	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	9c0d632f6c40878a
+644	3043	6360026928571975	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	2648709206e048c2
