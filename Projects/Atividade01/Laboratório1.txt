@@ -1,0 +1,16 @@
+Victor Reis
+Atividade 01
+
+Mudanças de otimização
+
+Low Optimization: 1s
+
+Medium Optimization: ~0.6s  
+
+High Optmization: Led aceso (mudança de estado inperceptível)
+
+Mudança de clock para 120Mz
+
+0.26s em low optimization. Não foi utilizada uma variável global para alterar o valor do clock dentro do loop.
+
+
