@@ -1,0 +1,16 @@
+# ninja log v5
+2	197	6366113450000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	48333d3870544310
+9	240	6366113450000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.xcl	b0126833562104e5
+250	358	6366113452446334	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	eca45d38b4f0f018
+207	433	6366113453298776	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	e539e67e6c6da388
+438	516	6366113454146519	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	4c5afd9bd386b06
+522	1699	6366113465575305	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	459ef3f7b6ba7c93
+1	66	6366114880187397	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	eca45d38b4f0f018
+72	120	6366114880731390	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	4c5afd9bd386b06
+128	1072	6366114889479278	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	459ef3f7b6ba7c93
+1	215	6366115640000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.xcl	9731af8bdad2f3bc
+7	236	6366115640000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	5716505868f4e7b5
+225	343	6366115650306918	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	eca45d38b4f0f018
+243	409	6366115651030083	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	e539e67e6c6da388
+414	473	6366115651698352	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	4c5afd9bd386b06
+479	1668	6366115662714813	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	459ef3f7b6ba7c93

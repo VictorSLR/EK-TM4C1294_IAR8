@@ -12202,7 +12202,7 @@
     "ID": "c:@F@SysCtlPLLVerificationSet",
     "What": "Function",
     "defdec": "Dec",
-    "display": "void SysCtlPLLVerificationSet(bool)",
+    "display": "void SysCtlPLLVerificationSet(_Bool)",
     "location": {
       "column": "13",
       "line": "628",
@@ -12216,7 +12216,7 @@
     "ID": "c:@F@SysCtlPLLVerificationSet",
     "What": "Function",
     "defdec": "Dec",
-    "display": "void SysCtlPLLVerificationSet(_Bool)",
+    "display": "void SysCtlPLLVerificationSet(bool)",
     "location": {
       "column": "13",
       "line": "628",
@@ -12503,6 +12503,48 @@
       "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_IAR8\\Projects\\simple_io_main_sp\\src\\simple_io_main_sp.c"
     },
     "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:simple_io_main_sp.c@1922@F@main@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "11",
+      "line": "43",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_IAR8\\Projects\\simple_io_main_sp\\src\\simple_io_main_sp.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:simple_io_main_sp.c@1922@F@main@b",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "b",
+    "location": {
+      "column": "23",
+      "line": "43",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_IAR8\\Projects\\simple_io_main_sp\\src\\simple_io_main_sp.c"
+    },
+    "name": "b",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:simple_io_main_sp.c@1922@F@main@c",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "c",
+    "location": {
+      "column": "35",
+      "line": "43",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_IAR8\\Projects\\simple_io_main_sp\\src\\simple_io_main_sp.c"
+    },
+    "name": "c",
     "origin": "project_file",
     "scope": null
   },

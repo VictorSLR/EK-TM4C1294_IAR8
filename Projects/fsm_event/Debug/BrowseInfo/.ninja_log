@@ -1,0 +1,18 @@
+# ninja log v5
+132	1798	6372028150000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/system_TM4C1294_TW.xcl	b65c2ce0610574c5
+2	1815	6372028150000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.xcl	325e3899676d13a0
+1809	2054	6372028150000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/driverleds.xcl	402e581e5448b2af
+2066	2354	6372028161401908	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/driverleds.pbi	2be015fedb52e2df
+1825	2536	6372028162964052	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbi	4ae4b7e93426fccc
+2358	2690	6372028164838585	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/system_TM4C1294_TW.pbi	e0c0389e3f88fc13
+2695	2812	6372028166088309	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbd	ae722687c2c6f2ea
+2820	5785	6372028194987768	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbw	cfd72b558bb3b678
+2	69	6372112393728636	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbi	4ae4b7e93426fccc
+75	141	6372112394384925	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbd	ae722687c2c6f2ea
+149	1107	6372112403687995	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbw	cfd72b558bb3b678
+1	72	6372112607104850	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbi	4ae4b7e93426fccc
+78	141	6372112607729701	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbd	ae722687c2c6f2ea
+149	1219	6372112618039779	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbw	cfd72b558bb3b678
+2	69	6372113730571406	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbi	4ae4b7e93426fccc
+75	121	6372113731196690	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbd	ae722687c2c6f2ea
+130	1028	6372113739475560	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/BrowseInfo/fsm_event.pbw	cfd72b558bb3b678

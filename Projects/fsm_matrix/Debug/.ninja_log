@@ -1,0 +1,7 @@
+# ninja log v5
+1	462	6372056042684750	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_matrix/Debug/Obj/startup_TM4C1294.o	88627fb459e88100
+468	788	6372056045749826	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_matrix/Debug/Obj/driverbuttons.o	12d29ef160e6302a
+391	803	6372056045749826	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_matrix/Debug/Obj/driverleds.o	9378f53b9010167e
+815	983	6372056047624372	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_matrix/Debug/Obj/fsm_matrix.o	4c447e00b03ccd4
+800	1023	6372056048093003	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_matrix/Debug/Obj/system_TM4C1294_TW.o	3b5791150acb5b9c
+1036	1898	6372056056874024	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_matrix/Debug/Exe/fsm_matrix.out	75991a9b08a6f0e2

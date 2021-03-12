@@ -1,0 +1,10 @@
+# ninja log v5
+0	130	6372106378915213	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Obj/startup_TM4C1294.o	2c58dce1ca308d12
+6	263	6372106380321160	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Obj/fsm_event.o	351b0d14e1cc4c5a
+134	362	6372106381258437	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Obj/driverleds.o	b07576a28b88fa07
+276	422	6372106381883718	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Obj/system_TM4C1294_TW.o	b38110492d818dcb
+437	581	6372106383289179	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Exe/fsm_event.out	541d2d78861bb647
+3	95	6372112578083230	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Obj/fsm_event.o	351b0d14e1cc4c5a
+111	211	6372112579177142	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Exe/fsm_event.out	541d2d78861bb647
+2	107	6372114278610159	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Obj/fsm_event.o	351b0d14e1cc4c5a
+119	233	6372114279859452	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_event/Debug/Exe/fsm_event.out	541d2d78861bb647

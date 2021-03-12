@@ -1,0 +1,6 @@
+# ninja log v5
+1	1043	6372028540028582	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_state/Debug/Obj/startup_TM4C1294.o	11883b22ba092a40
+1053	5195	6372028580487888	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_state/Debug/Obj/fsm_state.o	7ca0ae33ea6de266
+576	5418	6372028583455933	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_state/Debug/Obj/driverleds.o	460ff36d98c81a8f
+5240	6289	6372028592360235	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_state/Debug/Obj/system_TM4C1294_TW.o	363b9a9c34c4eb0b
+6303	7136	6372028600795555	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/fsm_state/Debug/Exe/fsm_state.out	2235ab0d951ef9a4

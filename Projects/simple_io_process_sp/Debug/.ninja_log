@@ -1,0 +1,8 @@
+# ninja log v5
+1	1728	6366113756058336	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Obj/startup_TM4C1294.o	67cbb44e253a7c08
+1537	1835	6366113756896074	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Obj/simple_io_process_sp.o	e092aa65e3fa814a
+1733	1895	6366113757609245	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Obj/system_TM4C1294_TW.o	44ee9c7ca2590e47
+1906	2018	6366113758841005	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Exe/simple_io_process_sp.out	fcda166c26dca606
+2	123	6366115608600684	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Obj/simple_io_process_sp.o	ab1f5cab7468db55
+7	169	6366115609059463	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Obj/system_TM4C1294_TW.o	29e336cf327923d5
+180	284	6366115610166512	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_IAR8/Projects/simple_io_process_sp/Debug/Exe/simple_io_process_sp.out	fcda166c26dca606
